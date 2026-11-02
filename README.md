@@ -1,3 +1,3 @@
 # docker-redis
 
-small and quick redis image
+Small and quick redis image
